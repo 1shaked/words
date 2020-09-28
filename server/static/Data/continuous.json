@@ -1,0 +1,20 @@
+{
+    "translation": "מתמשך, רצוף",
+    "uses": [],
+    "definition": [
+        "Relating to a line or curve that extends without a break or irregularity.",
+        "A function in which changes, however small, to any x-value result in small changes to the corresponding y-value, without sudden jumps. Technically, a function is continuous at the point c if it meets the following condition: for any positive number ε, however small, there exists a positive number Δ such that for all x within the distance Δ from c, the value of f(x) will be within the distance ε from f(c). Polynomials, exponential functions, and trigonometric functions are examples of continuous functions.",
+        "Link/Cite",
+        "Without break, cessation, or interruption; without intervening time.\na continuous current of electricity",
+        "Without intervening space; continued; protracted; extended.\na continuous line of railroad",
+        "(botany) Not deviating or varying from uniformity; not interrupted; not joined or articulated.",
+        "(analysis, of a function) Such that, for every x in the domain, for each small open interval D about f(x), there's an interval containing x whose image is in D.",
+        "(mathematics, more generally, of a function) Such that each open set in the range has an open preimage.\nEach continuous function from the real line to the rationals is constant, since the rationals are totally disconnected.",
+        "(grammar) Expressing an ongoing action or state.",
+        "Continuous is stronger than continual. It denotes that the continuity or union of parts is absolute and uninterrupted, as in a continuous sheet of ice, or a continuous flow of water or of argument. So Daniel Webster speaks of \"a continuous and unbroken strain of the martial airs of England.\" By contrast, continual usually marks a close and unbroken succession of things, rather than absolute continuity. Thus we speak of continual showers, implying a repetition with occasional interruptions; we speak of a person as liable to continual calls, or as subject to continual applications for aid.",
+        "continuity",
+        "continued",
+        "continuum",
+        "Link/Cite"
+    ]
+}

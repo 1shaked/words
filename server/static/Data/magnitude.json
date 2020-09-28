@@ -1,0 +1,16 @@
+{
+    "translation": "חשיבות, משמעות, גודל, שיעור",
+    "uses": [],
+    "definition": [
+        "The degree of brightness of a star or other celestial body, measured on a logarithmic scale in which lower numbers mean greater brightness, such that a decrease of one unit represents an increase in brightness by a factor of 2.512. An object that is 5 units less than another object on the magnitude scale is 100 times more luminous. Because of refinements in measurement after the zero point was assigned, very bright objects have negative magnitudes.",
+        "A measure of the total amount of energy released by an earthquake, as indicated on the Richter scale.\nSee more at Richter scale",
+        "Link/Cite",
+        "(uncountable, countable) The absolute or relative size, extent or importance of something.",
+        "(countable) An order of magnitude.",
+        "(mathematics) A number, assigned to something, such that it may be compared to others numerically",
+        "(mathematics) Of a vector, the norm, most commonly, the two-norm.",
+        "(astronomy) The apparent brightness of a star (on a negative, logarithmic scale); apparent magnitude",
+        "(seismology) A measure of the energy released by an earthquake (e.g. on the Richter scale).",
+        "Link/Cite"
+    ]
+}
