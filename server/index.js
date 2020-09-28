@@ -16,7 +16,7 @@ const posts = require('./routes/api/posts');
 app.use('/api/get' , get);
 app.use('/api/posts' , posts);
 
-app.use(express.static(__dirname + '/static'));
+app.use('/static', express.static(__dirname + '/static'));
 
 // Handel production
 if(process.env.NODE_ENV === 'production' || false)
